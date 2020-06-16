@@ -1,0 +1,175 @@
+Everyone wants to restart the economy safely.  Everyone.  The question isn’t “if”, it’s “when” and “how” and somehow that’s when politics gets involved.  So, let’s stop pointing fingers at “others” and blaming them for the world’s woes.  Now is the time to work together and create a plan to address the “when” and “how” questions.  And here’s a plan for doing that.
+
+Step 1: No More Blanket Mandates
+Blanket mandates only work for everyone who is average, and most people are not average.  Like most blanket policy mandates, blanket COVID-19 mandates are too strict for some people, and too lenient for others. So how do we get closer to a mandate that works for all?  We need to start by acknowledging that everyone is different and exploiting those differences to transform the country’s healthcare and welfare systems (see Figure 1).
+
+
+
+Figure 1: Role of Analytic Profiles to Drive Digital Transformation
+
+See the blog “Analytic Profiles: Key to Data Monetization” to better understand the role of Analytic Profiles to drive hyper-focused, highly-personalized operational decisions that drive digital transformation.
+
+Step 2: Acknowledge Innovation Comes from Embracing Diverse Perspectives
+“All ideas are worth of consideration.” Maybe the most powerful statement in driving innovation is the realization that sometimes the best ideas don’t come from the top of the organization or the senior most people in the room (or country).  Many times, the best ideas germinate from the diversity of perspectives at the front-lines where experienced practitioners are trying, learning, improvising and adapting to critical circumstances, sometimes in near real-time. It’s these front-line practitioners who will ultimately lead the transform of the healthcare industry’s economic value curve (see Figure 2)!
+
+
+
+Figure 2: Embrace Conflict and Diversity to Transform Your Economic Value Curve
+
+Economic Value Curve transformation occurs when conflicting constraints force key stakeholders to think out of the box and their comfort zones and into zones of ideation, collaboration and innovation.  See the blog “Using the Economics Value Curve to Drive Digital Transformation” to learn how the automobile industry embraced conflict to transition from an economic value curve built around “mileage OR horsepower” to a new economic value curve that enable “mileage AND horsepower”.
+
+Step 3: Apply Design Thinking to Move from “Least Worst” to Best “Best Option”
+Now is the time to leverage Design Thinking to synergize across those diverse perspectives to uncover and nurture ideas that might yield better outcomes.  Design Thinking leverages collaboration, ideation and group dynamics to create an environment for embracing the power of “Might” – that this data or variable might be a better driver of outcomes.  Remember, if you don’t have enough might moments, you’ll never have any breakthrough moments.
+
+It is necessary for organizations to realize and acknowledge that it takes diverse perspectives to fuel these might moments.  Instead of immediately taking offensive at someone who disagrees with you, take the time to consider their rationale and seek to understand how it might be blended with your idea to come up with something better. Don’t settle for the Least “Worst Option”. Instead, actively seek and collaborate for the Best “Best Option” (see Figure 3).
+
+
+
+Figure 3: Apply Design Thinking to Transition from “Least Worst” to Best “Best Option”
+
+Learn more on this concept from the blog “How Organizations Can Leverage Design Thinking to Avoid “Least Wors....”
+
+Step 4: Embrace Art of Thinking Like a Data Scientist
+Now, let’s marry all this creative thinking with data science to create a COVID-19 At-Risk Score for everyone in the country (or the world…this methodology scales nicely).  In much the same way that Fair Isaac transformed the credit industry with their FICO Credit Score (the FICO Credit Score measures the likelihood that someone will repay their loan), we can integrate the growing wealth of individual health and wellness data with modern advanced analytic techniques (machine learning, deep learning, reinforcement learning) to create a COVID-19 At-Risk score for everyone (that measures the likelihood that any particular individual might contract COVID-19).  See Figure 4.
+
+
+
+Figure 4: Creating a COVID19 At-Risk Score for Everyone
+
+In the Figure 4 illustrative example, the patient can see how the different variables impact their COVID-19 At-Risk Score and can therefore take preventative actions (like exercise more, lose some weight or practice yoga to destress) to reduce their susceptibility to COVID-19. See “Thinking Like A Data Scientist Part III: The Role of Scores” for more details regarding the role of scores in getting your business stakeholders to “Think Like A Data Scientist.”
+
+Step 5: Create a Continuous Learning Environment
+Finally, we need to create an environment of continuous learning, where experienced practitioners are trying, learning, improvising, adapting and sharing their learnings with the broader community in an open and transparent environment. When we enable that, we exploit the magic of compounding little improvements driven by continuous learning.  As Albert Einstein once: “Compounding is the eighth wonder of the world. He who understands it, earns it … he who doesn't … pays it.” See Figure 5.
+
+
+
+Figure 5: The Power of Compounding 1% improvements
+
+A 1% improvement compounded 365 times yields a 37.78x (times) improvement! Dang, I love math! See the blog “Smart Manufacturing and What It Means to Win the 1% Race” for more details about the game-changing potential of the economies of learning and the related compounding of small learnings.
+
+Summary: Creating a COVID-19 At-Risk Score
+I’ve been talking about many of these concepts for years, and even included links to some blogs that provided more details on how we can create a COVID-19 At-Risk Score by combining the diversity of perspectives, the power of analytic profiles and the magic of compounding to digitally transform the healthcare industry’s economic value curve.
+
+But we must be ready to embrace perspectives different than our own, and “unlearn” old beliefs about making blanket policy and operational decisions.  We must be willing to “learn” a new approach that builds off of the capabilities of Data Science, AI and ML to create hyper-focused, highly-personalized policy and operational decisions.  And in the end, we’ll transform the country’s healthcare economic value curve and learn to “do more with less” in an age where that will be the new mandate.
+
+At DataKind, we’re on the precipice of a significant strategic shift. Over the last seven years, our intrepid community of data scientists has generously donated their time and skills to complete over 300 projects with social good partners through our DataCorps and DataDive programs. The results have been impressive, ranging from saving nonprofits millions of dollars so they can provide more clean water to transforming government policy to crack down on corruption. These projects are just a step toward our vision of a world in which everyone working to improve society can use data science and AI ethically and capably.
+
+We asked ourselves, what would it take to get there? 300 more projects? 3,000? 30,000? There was no number of individual DataKind projects that could make a significant impact. If the world is relying on individual volunteer projects to tackle the most pressing humanitarian challenges, from DataKind or any other organization, then something is severely broken.  
+
+The good news is that we’re seeing a shift in thinking in the social sector that opens a pathway for this greater change. Increasingly foundations, governments, and companies are ready to engage in using data science and AI for social impact, and they can put major resources behind that. What they struggle with, however, is figuring out exactly what the opportunity is. How could AI help reduce infant mortality? What data science opportunities are there for supporting NGOs working for a more equitable justice system? Right now, there are too few entities who are resourced to marry the needs of different issue areas with their data science opportunities. 
+
+We’re therefore moving from a project-based model to a practice-based model, where we focus on portfolios of data science projects connected around common themes or issue areas, from one-to-one relationships across every thematic area to one-to-many relationships in a few thematic areas. That’s why earlier this year, with the generous support from The Rockefeller Foundation and the Mastercard Center for Inclusive Growth, we announced that we’re looking to identify data science opportunities to advance entire sectors with the launch of DataKind “Impact Practices”.
+
+So what is an Impact Practice exactly? And what can you expect? Read on! 
+
+Defining an “Impact Practice”
+Impact Practices are data-rich issue areas where multiple organizations have overlapping needs. Organizations could have many types of overlapping needs, like:
+
+A common outcome, such as reducing the time to detect disease outbreaks. 
+A common technology, such as drone and satellite imagery. 
+A common dataset or data system, such as the US Homeless Management Information System. 
+By identifying similar opportunities, shared pain-points across several social change organizations, or an overall theme under which many organizations work, DataKind can target a common data science capacity boost with the aim of generating solutions for multiple partners and potentially sector-wide system change. The success of an Impact Practice is that we’ve gained and shared enough hands-on knowledge about the datasets available, the appropriate ‘data science-able’ challenges, and the resourcing needed to derisk the space for future development.
+
+Let’s take an overly simplistic example. A key challenge in disease prevention is reducing the time to detect disease outbreaks. If we were working with a single disease prevention organization, we’d be able to dig into their goals, their workflow, their available data, and then run a traditional DataCorps project to test data innovations that could reduce their time to detect disease, but that would just support one organization. What if we wanted to reduce the time to detect disease across many organizations or even countries? Understanding the design of that system would require working with multiple participants with that same challenge to understand their workflows, understand what data is available, and test real prototypes in the field to understand what’s really possible. Thus, an Impact Practice would consist of many projects across organizations that could benefit directly from reduced time-to-detect and who may be participating in the same, or similar, digital systems. If successful, this portfolio would result in learnings, prototypes, and “validated scopes” of the developments needed to advance the space with data science and predictive analytics.
+
+It’s worth noting that we first tested this model with the support of Microsoft when we ran our first Labs projects. You can learn more about our work with Vision Zero cities to see an example of a proto Impact Practice.
+
+Identifying Impact Practices
+We’re looking to identify opportunities with partner organizations that help address recurring needs across the sector in order to develop prototypes which will generate sector-wide impact. Developing an Impact Practice that has the level of impact we seek will require significant testing up front. We don’t yet know what attributes indicate, early on, which groups are most likely to have shared needs. We’ll do our best to select into the right set of groups by considering the following factors:
+
+Is this a pressing humanitarian issue?
+Are there quantifiable measures of success?
+Are there rich data sets or digital technologies in use in the space?
+Are there funding institutions, foundations, or corporations that are committed to finding scalable solutions and applying cutting-edge technologies?
+Are there organizations open to experimentation with new technology?
+Do we have past project experience or a group of volunteers with expertise to help answer these questions? 
+Addressing Inclusive & Responsible Design
+Like our individual projects, our Impact Practices must meet our highest standards of responsible and thoughtful design. If not designed properly, data science interventions can be ineffective or, worse, harmful. That goes doubly when it’s being used to support nonprofits and governments charged with caring for the most vulnerable populations. For those reasons, we’ll continue to uphold our project design principles in Impact Practices:
+
+Start with the problem, not the data: The technology means nothing without a clear sense of what problem it’s solving, for whom, and how. 
+Local context is table stakes: From understanding the social issue at hand to working with the NGOs in that field to including the community’s needs, local context is critical. That’s why we partner with respected institutions in each space, consult with advisors across our network, and facilitate conversations and design between local technologists and community members. When I say “we”, I don’t just mean us sitting here in NYC with our points of view. I mean the entirety of the 20,000 DataKind volunteers across all continents. No matter who’s working on the project, we make sure we’ve got representation at the table throughout, and we don’t go where we’re not invited.
+Data science is our hammer, but not everything’s a nail: We care about effective social outcomes over “doing projects”, so we’re  just as likely to identify where data science is not useful as where it is. We’re also not naive about the core infrastructural data needs at large in many issue areas - most folks don’t have high quality, or any, data. However, we always push to find the area where there’s enough of a digital infrastructure in place for us to demonstrate the “art of the possible”.
+Learning Out Loud
+A key element of every Impact Practice will be "learning out loud". We’ll be sharing our learnings, so others interested in using data to help organizations can build on our work. Doing work in cohort allows for DataCorps teams to share insights and approaches as they develop solutions. By facilitating cross-team learnings, teams can approach each phase presentation together for a share-out and critique. The Impact Practice approach allows stakeholder, partner, and participant organizations to have transparency into the process and development not just of an individual organization’s solution, but of solutions across the space. While DataKind will be pulling together synthesized learnings at key stages of the process, our intent is to encourage these communications as an opportunity for development of organic learnings and collaborations across the cohort.  
+
+Introducing Our First Impact Practice
+There are over one billion people on the planet who lack access to healthcare. People may live too far from a clinic to get service, may lack the money to afford care, or may simply not know where to go for help. The Community Health Worker (CHW) model has been a breakthrough innovation for delivering last-mile care. CHWs is an umbrella term for trusted frontline public health workers that serve the-hardest-to-reach communities. Acting as an intermediary between health services and the residents, the CHWs provide healthcare services, encourage their communities to adopt healthy behaviors, and much more. If we want the impact of CHWs to grow exponentially though - in order to account for population growth - we must combine their on-the-ground frontline care with the best cutting-edge skills and techniques available. That’s why, earlier this year, we began our work to improve health outcomes for the hardest-to-reach communities of Africa by using data to amplify the impact of CHWs. You’ll very soon be hearing much more about the launch of our first cohort of projects for DataKind’s Community Health Worker Impact Practice. 
+
+Unlocking the Potential
+To date, DataKind’s activities have answered the question: How could data science be most leveraged to serve this social organization? Yet, the world’s problems will not be solved on the backs of hundreds of individual volunteer projects. We now want to help answer the question: How could data science be most leveraged to serve this social cause?
+
+The aim of our work then is to move the needle on the world’s toughest challenges, not just help nonprofits become data savvy nor just help data scientists find ways to give back. We’re ready to take that next step in creating a more equitable and prosperous world with data science, and we hope that you’ll take that step with us. Volunteer to join us for the DataKind Community Health Worker Impact Practice when the call goes out, reach out to us if you run a major initiative that you think could take advantage of data science, or apply to work with us for one of the many roles we’re hiring for in this next phase of our journey. Data is about all of us, so it requires all of us to be involved to be used well. See you out there! 
+
+
+The history of machine learning has largely been a story of increasing abstraction. In the dawn of ML, researchers spent considerable effort engineering features. As deep learning gained popularity, researchers then shifted towards tuning the update rules and learning rates for their optimizers. Recent research in meta-learning has climbed one level of abstraction higher: many researchers now spend their days manually constructing task distributions, from which they can automatically learn good optimizers. What might be the next rung on this ladder? In this post we introduce theory and algorithms for unsupervised meta-learning, where machine learning algorithms themselves propose their own task distributions. Unsupervised meta-learning further reduces the amount of human supervision required to solve tasks, potentially inserting a new rung on this ladder of abstraction.
+
+We start by discussing how machine learning algorithms use human supervision to find patterns and extract knowledge from observed data. The most common machine learning setting is regression, where a human provides labels Y for a set of examples X. The aim is to return a predictor that correctly assigns labels to novel examples. Another common machine learning problem setting is reinforcement learning (RL), where an agent takes actions in an environment. In RL, humans indicate the desired behavior through a reward function that the agent seeks to maximize. To draw a crude analogy to regression, the environment dynamics are the examples X, and the reward function gives the labels Y. Algorithms for regression and RL employ many tools, including tabular methods (e.g., value iteration), linear methods (e.g., linear regression) kernel-methods (e.g., RBF-SVMs), and deep neural networks. Broadly, we call these algorithms learning procedures: processes that take as input a dataset (examples with labels, or transitions with rewards) and output a function that performs well (achieves high accuracy or large reward) on the dataset.
+
+
+Machine learning research is similar to the control room for large physics experiments. Researchers have a number of knobs they can tune which affect the performance of the learning procedure. The right setting for the knobs depends on the particular experiment: some settings work well for high-energy experiments; others work well for ultracold atom experiments. Figure Credit.
+
+Similar to lab procedures used in physics and biology, the learning procedures used in machine learning have many knobs1 that can be tuned. For example, the learning procedure for training a neural network might be defined by an optimizer (e.g., Nesterov, Adam) and a learning rate (e.g., 1e-5). Compared with regression, learning procedures specific to RL (e.g., DDPG) often have many more knobs, including the frequency of data collection and how frequently the policy is updated. Finding the right setting for the knobs can have a large effect on how quickly the learning procedure solves a task, and a good configuration of knobs for one learning procedure may be a bad configuration for another.
+
+Meta-Learning Optimizes Knobs of the Learning Procedure
+While machine learning practitioners often carefully tune these knobs by hand, if we are going to solve many tasks, it may be useful to automatic this process. The process of setting the knobs of learning procedures via optimization is called meta-learning [Thrun 1998]. Algorithms that perform this optimization problem automatically are known as meta-learning algorithms. Explicitly tuning the knobs of learning procedures is an active area of research, with various researchers looking at tuning the update rules [Andrychowicz 2016, Duan 2016, Wang 2016], weight initialization [Finn 2017], network weights [Ha 2016], network architectures [Gaier 2019], and other facets of learning procedures.
+
+To evaluate a setting of knobs, meta-learning algorithms consider not one task but a distribution over many tasks. For example, a distribution over supervised learning tasks may include learning a dog detector, learning a cat detector, and learning a bird detector. In reinforcement learning, a task distribution could be defined as driving a car in a smooth, safe, and efficient manner, where tasks differ by the weights they place on smoothness, safety, and efficiency. Ideally, the task distribution is designed to mirror the distribution over tasks that we are likely to encounter in the real world. Since the tasks in a task distribution are typically related, information from one task may be useful in solving other tasks more efficiently. As you might expect, a knob setting that works best on one distribution of tasks may not be the best for another task distribution; the optimal knob setting depends on the task distribution.
+
+
+An illustration of meta-learning, where tasks correspond to arranging blocks into different types of towers. The human has a particular block tower in mind and rewards the robot when it builds the correct tower. The robot's aim is to build the correct tower as quickly as possible.
+
+In many settings we want to do well on a task distribution to which we have only limited access. For example, in a self-driving car, tasks may correspond to finding the optimal balance of smoothness, safety, and efficiency for each rider, but querying riders to get rewards is expensive. A researcher can attempt to manually construct a task distribution that mimics the true task distribution, but this can be quite challenging and time consuming. Can we avoid having to manually design such task distributions?
+
+To answer this question, we must understand where the benefits of meta-learning come from. When we define task distributions for meta-learning, we do so with some prior knowledge in mind. Without this prior information, tuning the knobs of a learning procedure is often a zero-sum game: setting the knobs to any configuration will accelerate learning on some tasks while slowing learning on other tasks. Does this suggest there is no way to see the benefit of meta-learning without the manual construction of task distributions? Perhaps not! The next section presents an alternative.
+
+Optimizing the Learning Procedure with Self-Proposed Tasks
+If designing task distributions is the bottleneck in applying meta-learning algorithms, why not have meta-learning algorithms propose their own tasks? At first glance this seems like a terrible idea, because the No Free Lunch Theorem suggests that this is impossible, without additional knowledge. However, many real-world settings do provide a bit of additional information, albeit disguised as unlabeled data. For example, in regression, we might have access to an unlabeled dataset and know that the downstream tasks will be labeled versions of this same image dataset. In a RL setting, a robot can interact with its environment without receiving any reward, knowing that downstream tasks will be constructed by defining reward functions for this very environment (i.e. the real world). Seen from this perspective, the recipe for unsupervised meta-learning (doing meta-learning without manually constructed tasks) becomes clear: given unlabeled data, construct task distributions from this unlabeled data or environment, and then meta-learn to quickly solve these self-proposed tasks.
+
+
+In unsupervised meta-learning, the agent proposes its own tasks, rather than relying on tasks proposed by a human.
+
+How can we use this unlabeled data to construct task distributions which will facilitate learning downstream tasks? In the case of regression, prior work on unsupervised meta-learning [Hsu 2018, Khodadadeh 2019] clusters an unlabeled dataset of images and then randomly chooses subsets of the clusters to define a distribution of classification tasks. Other work [Jabri 2019] look at an RL setting: after exploring an environment without a reward function to collect a set of behaviors that are feasible in this environment, these behaviors are clustered and used to define a distribution of reward functions. In both cases, even though the tasks constructed can be random, the resulting task distribution is not random, because all tasks share the underlying unlabeled data — the image dataset for regression and the environment dynamics for reinforcement learning. The underlying unlabeled data are the inductive bias with which we pay for our free lunch.
+
+Let us take a deeper look into the RL case. Without knowing the downstream tasks or reward functions, what is the “best” task distribution for “practicing” to solve tasks quickly? Can we measure how effective a task distribution is for solving unknown, downstream tasks? Is there any sense in which one unsupervised task proposal mechanism is better than another? Understanding the answers to these questions may guide the principled development of meta-learning algorithms with little dependence on human supervision. Our work [Gupta 2018], takes a first step towards answering these questions. In particular, we examine the worst-case performance of learning procedures, and derive an optimal unsupervised meta-reinforcement learning procedure.
+
+Optimal Unsupervised Meta-Learning
+To answer the questions posed above, our first step is to define an optimal meta-learner for the case where the distribution of tasks is known. We define an optimal meta-learner as the learning procedure that achieves the largest expected reward, averaged across the distribution of tasks. More precisely, we will compare the expected reward for a learning procedure f to that of best learning procedure f∗, defining the regret of f on a task distribution p as follows:
+
+
+Extending this definition to the case of unsupervised meta-learning, an optimal unsupervised meta-learner can be defined as a meta-learner that achieves the minimum worst-case regret across all possible task distributions that may be encountered in the environment. In the absence of any knowledge about the actual downstream task, we resort to a worst case formulation. An unsupervised meta-learning algorithm will find a single learning procedure f that has the lowest regret against an adversarially chosen task distribution p:
+
+minfmaxpRegret(f,p).
+Our work analyzes how exactly we might obtain such an optimal unsupervised meta-learner, and provides bounds on the regret that it might incur in the worst case. Specifically, under some restrictions on the family of tasks that might be encountered at test-time, the optimal distribution for an unsupervised meta-learner to propose is uniform over all possible tasks.
+
+The intuition for this is straightforward: if the test time task distribution can be chosen adversarially, the algorithm must make sure it is uniformly good over all possible tasks that might be encountered. As a didactic example, if test-time reward functions were restricted to the class of goal-reaching tasks, the regret for reaching a goal at test-time is inverse related to the probability of sampling that goal during training-time. If any one of the goals g has lower density than the others, an adversary can propose a task distribution solely consisting of reaching that goal g causing the learning procedure to incur a higher regret. This example suggests that we can find an optimal unsupervised meta-learner using a uniform distribution over goals. Our paper formalizes this idea and extends it to broader classes task distributions.
+
+Now, actually sampling from a uniform distribution over all possible tasks is quite challenging. Several recent papers have proposed RL exploration methods based on maximizing mutual information [Achiam 2018, Eysenbach 2018, Gregor 2016, Lee 2019, Sharma 2019]. In this work, we show that these methods provide a tractable approximation to the uniform distribution over task distributions. To understand why this is, we can look at the form of a mutual information considered by [Eysenbach 2018], between states s and latent variables z:
+
+I(s,z)=H(s)−H(s|z).
+In this objective, the first marginal entropy term is maximized when there is a uniform distribution over all possible tasks. The second conditional entropy term ensures consistency, by making sure that for each z, the resulting distribution of s is narrow. This suggests constructing unsupervised task-distributions in an environment by optimizing mutual information gives us a provably optimal task distribution, according to our notion of min-max optimality.
+
+While the analysis makes some limiting assumptions about the forms of tasks encountered, we show how this analysis can be extended to provide a bound on the performance in the most general case of reinforcement learning. It also provides empirical gains on several simulated environments as compared to methods which train from scratch, as shown in the Figure below.
+
+
+Summary & Discussion
+In summary:
+
+Learning procedures are recipes for converting datasets into function approximators. Learning procedures have many knobs, which can be tuned by optimizing the learning procedures to solve a distribution of tasks.
+
+Manually designing these task distributions is challenging, so a recent line of work suggests that the learning procedure can use unlabeled data to propose its own tasks for optimizing its knobs.
+
+These unsupervised meta-learning algorithms allow for learning in regimes previously impractical, and further expand that capability of machine learning methods.
+
+This work closely relates to other works on unsupervised skill discovery, exploration and representation learning, but explicitly optimizes for transferability of the representations and skills to downstream tasks.
+
+A number of open questions remain about unsupervised meta-learning:
+
+Unsupervised learning is closely connected to unsupervised meta-learning: the former uses unlabeled data to learn features, while the second uses unlabeled data to tune the learning procedure. Might there be some unifying treatment of both approaches?
+
+Our analysis only proves that task proposal based on mutual information is optimal for memoryless meta-learning algorithms. Meta-learning algorithms with memory, which we expect will perform better, may perform best with different task proposal mechanisms.
+
+Scaling unsupervised meta learning to leverage large-scale datasets and complex tasks holds the promise of acquiring learning procedures for solving real-world problems more efficiently than our current learning procedures.
+
+Check out our paper for more experiments and proofs: https://arxiv.org/abs/1806.04640
+
+Acknowledgments
